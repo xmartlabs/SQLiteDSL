@@ -4,3 +4,5 @@ A library to make working with [SQLite][sqlite] easier on Android by introducing
 
 ## About
 Made with ❤️ by [XMARTLABS](http://xmartlabs.com)
+
+[sqlite]: https://www.sqlite.org/index.html
